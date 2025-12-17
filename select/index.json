@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "美しい人",
+  "base_artist": "原因は自分にある。",
+  "createdAt": "2025-12-17T16:11:35.151528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "美しい人",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/01_美しい人_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "美しい人",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/02_美しい人_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "美しい人",
+      "artist": "Sakamoto, Maaya",
+      "has_synced": false,
+      "path": "select/03_美しい人_Sakamoto,_Maaya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "美しい人",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/04_美しい人_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "美しい人",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/05_美しい人_Ken_Hirai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しい人",
+      "artist": "原因は自分にある。",
+      "has_synced": false,
+      "path": "select/pl_01_美しい人_原因は自分にある。.txt"
+    }
+  ]
+}
